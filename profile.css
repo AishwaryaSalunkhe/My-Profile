@@ -1,0 +1,40 @@
+h2{	
+	margin-left:1rem;
+	font-size:27pt;
+	color:#4b0082;
+	}
+
+
+h4{
+	margin-left:3rem;
+	
+	margin-bottom:0.5rem;
+	color:ff4500;
+	font-size:16pt;
+	font-style:oblique;
+	font-family:'AmsterlvarAlpha';
+  }
+
+body {
+      
+  background: url("vector-grey-abstract-background.png");
+	font-size:14pt;
+	
+}
+
+p{
+	margin-left:4.5rem;
+	width:600px;
+	}
+
+.image {
+		float:right;
+		padding-right:100px;
+		}
+
+.title{
+	margin-bottom:20px;
+	padding-right:30px;
+
+}
+
